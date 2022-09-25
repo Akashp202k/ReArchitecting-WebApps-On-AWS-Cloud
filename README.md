@@ -35,4 +35,19 @@ AmazonMQ (RabbitMQ)
 #CloudFront
 ![image](https://user-images.githubusercontent.com/76225409/192157753-e80c14e8-0087-4eac-88e6-b492c43101c6.png)
 
+# Final Hosted WebSite View
+
+#login page
+![image](https://user-images.githubusercontent.com/76225409/192158052-fea9e3c3-63eb-419a-884e-d47a830c8578.png)
+#After login
+![image](https://user-images.githubusercontent.com/76225409/192158089-1f6bd7da-78e5-44e0-ae64-1afd80c9f9b2.png)
+#fetching users from aws RDS database 
+![image](https://user-images.githubusercontent.com/76225409/192158131-f2dd6055-1181-403b-b522-19a4b6e95899.png)
+#data insertion into cache initially
+![image](https://user-images.githubusercontent.com/76225409/192158165-24453230-b868-42c2-a85f-a6f31bf5860a.png)
+#data fetched from cache
+![image](https://user-images.githubusercontent.com/76225409/192158187-b976232b-a69d-410b-954c-d5785c160d22.png)
+
+
+# Finally webApp is Successfully Rearchitected On aws Cloud
 
