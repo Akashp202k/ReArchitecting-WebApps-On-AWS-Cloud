@@ -3,9 +3,10 @@
 The project is about deploying Multi-tear webApplication named [vprofile] on aws cloud and configuration with PAAS and SAAS aws services intead of using only aws IAAS . This Architecture boost agility and helps in business continuity . its highly available as we configured it with aws cloud front (CDN) and higly scalable as we are using elastic beanstalk and internally it uses configuration like load balancer , auto scalling groups etc.
 
 # Technology used 
-aws cloud
-mysql database
-gitbash
+aws cloud | 
+mysql database | 
+gitbash | 
+goDaddy DNS
 
 
 Architecture
