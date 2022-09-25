@@ -32,3 +32,7 @@ AmazonMQ (RabbitMQ)
 #elastic cache (memcached)
 ![image](https://user-images.githubusercontent.com/76225409/192157411-3aee6424-14e8-4a31-927e-b57addb2a995.png)
 
+#CloudFront
+![image](https://user-images.githubusercontent.com/76225409/192157753-e80c14e8-0087-4eac-88e6-b492c43101c6.png)
+
+
