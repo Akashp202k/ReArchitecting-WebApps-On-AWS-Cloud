@@ -13,7 +13,11 @@ Architecture
 
 ![image](https://user-images.githubusercontent.com/76225409/192162527-1b90891b-a861-4674-a4e5-5fe3313417c2.png)
 
+#elastic cache (memcached)
+![image](https://user-images.githubusercontent.com/76225409/192157411-3aee6424-14e8-4a31-927e-b57addb2a995.png)
 
+AmazonMQ (RabbitMQ)
+![image](https://user-images.githubusercontent.com/76225409/192157348-4bf0ee2e-db91-43d1-9df4-aad9e2b1779e.png)
 
 ElasticBeanStack
 ![image](https://user-images.githubusercontent.com/76225409/192157090-8e310c13-3d97-444a-b941-46788fcbeae9.png)
@@ -32,11 +36,6 @@ RDS database configuration
 Subnet group Configuration  For RDS Database
 ![image](https://user-images.githubusercontent.com/76225409/192157317-4ec4598c-9cdf-4aef-ac5b-a6d465554a1e.png)
 
-AmazonMQ (RabbitMQ)
-![image](https://user-images.githubusercontent.com/76225409/192157348-4bf0ee2e-db91-43d1-9df4-aad9e2b1779e.png)
-
-#elastic cache (memcached)
-![image](https://user-images.githubusercontent.com/76225409/192157411-3aee6424-14e8-4a31-927e-b57addb2a995.png)
 
 #CloudFront
 ![image](https://user-images.githubusercontent.com/76225409/192157753-e80c14e8-0087-4eac-88e6-b492c43101c6.png)
