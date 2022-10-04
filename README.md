@@ -13,7 +13,7 @@ goDaddy DNS
 
 Architecture
 
-![image](https://user-images.githubusercontent.com/76225409/192162527-1b90891b-a861-4674-a4e5-5fe3313417c2.png)
+![image](https://user-images.githubusercontent.com/76225409/193885031-ccc0b3ea-16c8-48c7-8232-5a4364758fb4.png)
 
 #elastic cache (memcached)
 ![image](https://user-images.githubusercontent.com/76225409/192157411-3aee6424-14e8-4a31-927e-b57addb2a995.png)
